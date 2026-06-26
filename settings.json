@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bhondusmp-K8dn.aternos.me:53743",
+    "ip": "bhondusmp-K8dn.aternos.me",
     "port": 53743,
     "version": "1.21.11"
   },
